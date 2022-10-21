@@ -19,10 +19,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.moonvent.test_moding.MoonventMod"
+      "net.moonvent.firstmod.MoonventMod"
     ],
     "client": [
-      "net.moonvent.test_moding.MoonventModClient"
+      "net.moonvent.firstmod.MoonventModClient"
     ]
   },
   "mixins": [

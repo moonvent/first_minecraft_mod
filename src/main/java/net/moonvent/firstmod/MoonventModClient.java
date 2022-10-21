@@ -1,4 +1,4 @@
-package net.moonvent.test_moding;
+package net.moonvent.firstmod;
 
 import net.fabricmc.api.ClientModInitializer;
 

@@ -1,6 +1,6 @@
-package net.moonvent.test_moding.mixin;
+package net.moonvent.firstmod.mixin;
 
-import net.moonvent.test_moding.MoonventMod;
+import net.moonvent.firstmod.MoonventMod;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

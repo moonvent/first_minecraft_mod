@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.moonvent.test_moding.mixin",
+  "package": "net.moonvent.firstmod.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],
